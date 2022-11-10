@@ -29,3 +29,6 @@ Vady's Journey
 
 
 # Sources
+
+https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3
+https://www.youtube.com/watch?v=DTp5zi8_u1U
