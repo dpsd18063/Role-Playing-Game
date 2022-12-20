@@ -64,6 +64,17 @@ Vady's Journey
 ![WaterBall - Startup and Infinite](https://user-images.githubusercontent.com/115894686/208255291-b72490be-1d38-45df-86ae-f4943e39b013.png)
 
 # 3rd Deliverable 
+![pixil-frame-0 (7)](https://user-images.githubusercontent.com/115894686/208739507-a29541af-5fae-4f89-a805-e96c0343153a.png)
+![Burst of ice](https://user-images.githubusercontent.com/115894686/208739584-cef86087-7fc2-49f5-8491-8c84a4c96f43.png)
+![rwbj2_0](https://user-images.githubusercontent.com/115894686/208739621-d1e3c009-bf3d-4165-be8a-608a08e94f36.png)
+![1](https://user-images.githubusercontent.com/115894686/208739663-470e6688-0ebb-4387-8721-9f73720c83c0.png)
+![magic07scroll](https://user-images.githubusercontent.com/115894686/208739733-53ea016c-462b-4d24-ae78-291239e2b546.png)
+![magic02spellbook](https://user-images.githubusercontent.com/115894686/208739745-cc30a927-9f72-4326-8bf6-d9eec7f88a7b.png)
+![image](https://user-images.githubusercontent.com/115894686/208740012-96e1868a-77ee-404c-bd1e-fbe553b34aea.png)
+![image](https://user-images.githubusercontent.com/115894686/208740078-a406133b-a7df-4b84-80e4-d44554abf98d.png)
+![image](https://user-images.githubusercontent.com/115894686/208740242-f194dc91-6055-4daa-9441-3d81b1406fe0.png)
+![image](https://user-images.githubusercontent.com/115894686/208740419-d1eab7c1-1a0e-4c01-a2d6-89f1f11569f9.png)
+![image](https://user-images.githubusercontent.com/115894686/208740531-afa5de1d-fd9b-4b8b-a177-d151c55044a2.png)
 
 
 # Conclusions
