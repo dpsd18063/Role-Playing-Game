@@ -75,6 +75,17 @@ Vady's Journey
 ![image](https://user-images.githubusercontent.com/115894686/208740242-f194dc91-6055-4daa-9441-3d81b1406fe0.png)
 ![image](https://user-images.githubusercontent.com/115894686/208740419-d1eab7c1-1a0e-4c01-a2d6-89f1f11569f9.png)
 ![image](https://user-images.githubusercontent.com/115894686/208740531-afa5de1d-fd9b-4b8b-a177-d151c55044a2.png)
+![image](https://user-images.githubusercontent.com/115894686/211589116-2fe9c514-2316-4e58-8e83-c6ce3b1fce90.png)
+![image](https://user-images.githubusercontent.com/115894686/211589771-91734a01-ed0d-4eb6-a6ad-30da32812ce2.png)
+![image](https://user-images.githubusercontent.com/115894686/211589896-4fb6cee6-25e7-4d23-b8c4-c6947b5b9937.png)
+![image](https://user-images.githubusercontent.com/115894686/211590176-c90aa6b5-cb93-4312-9ded-2668201f0e9c.png)
+![image](https://user-images.githubusercontent.com/115894686/211590707-763338c1-f414-4c81-a8f8-e8be48e39cb6.png)
+![image](https://user-images.githubusercontent.com/115894686/211590856-be9ee4be-4626-48d3-b355-0fc0c70ba275.png)
+![image](https://user-images.githubusercontent.com/115894686/211590987-628453e7-f85e-4fa0-9cda-08258be6c680.png)
+![image](https://user-images.githubusercontent.com/115894686/211591249-c2825a19-a474-4710-9541-5b645b5588cb.png)
+![image](https://user-images.githubusercontent.com/115894686/211591670-23d5bb6d-c46a-4aae-8e55-86897f79d374.png)
+![image](https://user-images.githubusercontent.com/115894686/211592155-bee6e131-3a46-4624-af06-1fb680737e74.png)
+![image](https://user-images.githubusercontent.com/115894686/211594950-ce4775f2-68f8-4ad5-a6eb-9bed457e1375.png)
 
 
 # Conclusions
