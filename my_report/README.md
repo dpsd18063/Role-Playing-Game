@@ -85,6 +85,7 @@ Vady's Journey
 ![image](https://user-images.githubusercontent.com/115894686/211591249-c2825a19-a474-4710-9541-5b645b5588cb.png)
 ![image](https://user-images.githubusercontent.com/115894686/211591670-23d5bb6d-c46a-4aae-8e55-86897f79d374.png)
 ![image](https://user-images.githubusercontent.com/115894686/211592155-bee6e131-3a46-4624-af06-1fb680737e74.png)
+![image](https://user-images.githubusercontent.com/115894686/211594950-ce4775f2-68f8-4ad5-a6eb-9bed457e1375.png)
 
 
 # Conclusions
