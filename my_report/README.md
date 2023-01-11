@@ -19,7 +19,7 @@ Vady's Journey
 Σκοπός της εργασίας είναι να επεκτείνεις το Ruby's Adventure, ένα 2D RPG video game χρησιμοποιόντας δικούς σου χαρακτήρες και σενάριο επιλογής. Αυτό γίνεται ακολουθόντας κατά βάση τις οδηγίες απο το tutorial του Unity.
 
 # 1st Deliverable
-Στο 1ο παραδοτέο, αρχικά σχεδίασα τον χαρακτήρα μου στο pixelart. 
+Στο 1ο παραδοτέο, αρχικά σχεδίασα τον χαρακτήρα μου στο pixilart. 
 Στην συνέχεια έκανα έρευνα και βρήκα δύο διαφορετικά σετ απο assets και τα κατέβασα. Ακολούθησα τις οδηγίες του tutorial και έβαλα τον χαρακτήρα μου και τον προγραμμάτισα να κινείται ανάλογα να τα πλήκτρα που πατάει ο χρήστης. Στην συνέχεια απο τα αρχεία που κατέβασα και χρησιμοποιώντας το βίντεο που ανέβασε ένας συμφοιτητής μου για να μας βοηθήσει, δημιούργησα το tilemap της αρέσκειάς μου, έτσι ώστε να σχηματίζεται το νησί που θα εξερευνήσει ο χαρακτήρας μου. 
 
 ![1](https://user-images.githubusercontent.com/115894686/201203415-b436190d-f468-4b76-8d6d-fc1317fcbd28.png)
@@ -122,6 +122,9 @@ Vady's Journey
 
 # Sources
 
+https://www.pixilart.com/
+
+
 https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3
 
 
@@ -147,3 +150,9 @@ https://www.youtube.com/watch?v=dO5BzWYqEdY
 
 
 https://www.youtube.com/watch?v=cOW_T3i4_kk
+
+https://www.youtube.com/watch?v=jvtFUfJ6CP8
+
+https://www.youtube.com/watch?v=pKFtyaAPzYo&t=403s
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY
