@@ -19,7 +19,7 @@ Vady's Journey
 Σκοπός της εργασίας είναι να επεκτείνεις το Ruby's Adventure, ένα 2D RPG video game χρησιμοποιόντας δικούς σου χαρακτήρες και σενάριο επιλογής. Αυτό γίνεται ακολουθόντας κατά βάση τις οδηγίες απο το tutorial του Unity.
 
 # 1st Deliverable
-Στο 1ο παραδοτέο, αρχικά σχεδίασα τον χαρακτήρα μου στο pixelart. 
+Στο 1ο παραδοτέο, αρχικά σχεδίασα τον χαρακτήρα μου στο pixilart. 
 Στην συνέχεια έκανα έρευνα και βρήκα δύο διαφορετικά σετ απο assets και τα κατέβασα. Ακολούθησα τις οδηγίες του tutorial και έβαλα τον χαρακτήρα μου και τον προγραμμάτισα να κινείται ανάλογα να τα πλήκτρα που πατάει ο χρήστης. Στην συνέχεια απο τα αρχεία που κατέβασα και χρησιμοποιώντας το βίντεο που ανέβασε ένας συμφοιτητής μου για να μας βοηθήσει, δημιούργησα το tilemap της αρέσκειάς μου, έτσι ώστε να σχηματίζεται το νησί που θα εξερευνήσει ο χαρακτήρας μου. 
 
 ![1](https://user-images.githubusercontent.com/115894686/201203415-b436190d-f468-4b76-8d6d-fc1317fcbd28.png)
@@ -64,36 +64,100 @@ Vady's Journey
 ![WaterBall - Startup and Infinite](https://user-images.githubusercontent.com/115894686/208255291-b72490be-1d38-45df-86ae-f4943e39b013.png)
 
 # 3rd Deliverable 
-![pixil-frame-0 (7)](https://user-images.githubusercontent.com/115894686/208739507-a29541af-5fae-4f89-a805-e96c0343153a.png)
+
+Αρχικά ξεκίνησα κάνοντας διορθώσεις στο projectile του χαρακτήρα μου, και τελικά το αντικατέστηκα με μία μπλε λάμψη. 
 ![Burst of ice](https://user-images.githubusercontent.com/115894686/208739584-cef86087-7fc2-49f5-8491-8c84a4c96f43.png)
+
+Στην συνέχεια πρόσθεσα το Particle System απο το tutorial, και το χρησιμοποίησα για τον καπνό/ τοξικά πράσινα αέρια που βγάζουν οι εχθροί μου. Επίσης το χρησιμοποίησα με την μορφή του μωβ γκλίτερ στον ήρωα, την στιγμή που μπαίνει στην πίστα και μετά απο κάποια δευτερόλεπτα χάνεται. Αυτό έγινε αλλάζοντας το Looping και το Duration.
+
 ![rwbj2_0](https://user-images.githubusercontent.com/115894686/208739621-d1e3c009-bf3d-4165-be8a-608a08e94f36.png)
-![1](https://user-images.githubusercontent.com/115894686/208739663-470e6688-0ebb-4387-8721-9f73720c83c0.png)
+
+
+Έπειτα ασχολήθηκα με το Heads-up Display όπου σχεδίασα την δική μου μπάρα ζωής του ήρωα και αφού την τοποθέτησα στον χώρο την σύνδεσα με το health του χαρακτήρα. Στην συνέχεια πρόσθεσα τις περγαμηνές ώς στοιχεία που μπορεί να μαζέψει ο παίκτης κατά την διάρκεια της πίστας και έτσι να αυξήσει το σκόρ του, το οποίο το έβαλα να αναγράφεται ως pages πάνω απο το Heads-up Display του health.
+
 ![magic07scroll](https://user-images.githubusercontent.com/115894686/208739733-53ea016c-462b-4d24-ae78-291239e2b546.png)
-![magic02spellbook](https://user-images.githubusercontent.com/115894686/208739745-cc30a927-9f72-4326-8bf6-d9eec7f88a7b.png)
-![image](https://user-images.githubusercontent.com/115894686/208740012-96e1868a-77ee-404c-bd1e-fbe553b34aea.png)
+
+
+![image](https://user-images.githubusercontent.com/115894686/211589896-4fb6cee6-25e7-4d23-b8c4-c6947b5b9937.png)
+
+Ακολουθόντας το tutorial προσθεσα και έναν NPC με ένα μικρό σταστικό animation που σχεδίασα εγώ. Με το πάτημα του πλήκτρου Χ ο παίκτης μπορεί να μιλήσει μαζι του, με τον NPC να του λέει σαν συμβουλή, πως πρέπει να βρει το μαγικό βιβλίο. 
+
+![pixil-gif-drawing](https://user-images.githubusercontent.com/115894686/211856201-043ec6a4-fc53-4d7f-bd84-34ce81d07340.gif)
+
+![image](https://user-images.githubusercontent.com/115894686/211590707-763338c1-f414-4c81-a8f8-e8be48e39cb6.png)
+
+Στην συνέχεια μέσω του youtube κυρίως, δημιούργησα ένα στοιχείο στο οποίο αν εισέλθει ο ήρωας και πατηθεί το πλήκτρο Ε μπορεί να τηλεμεταφερθεί σε ένα άλλο σημείο της πίστας. 
+
+![1](https://user-images.githubusercontent.com/115894686/208739663-470e6688-0ebb-4387-8721-9f73720c83c0.png)
+
 ![image](https://user-images.githubusercontent.com/115894686/208740078-a406133b-a7df-4b84-80e4-d44554abf98d.png)
 ![image](https://user-images.githubusercontent.com/115894686/208740242-f194dc91-6055-4daa-9441-3d81b1406fe0.png)
-![image](https://user-images.githubusercontent.com/115894686/208740419-d1eab7c1-1a0e-4c01-a2d6-89f1f11569f9.png)
+
+Μετά πρόσθεσα το audio. Αρχικά έβαλα ένα Background music που ακούγεται καθ΄όλη την διάρκεια του παιχνιδιού, μετά πρόσθεσα διαφορετικούς ήχους για όταν χάνει ζωή ο ήρωας, όταν συλλέγει healthcollectibles, όταν χτυπάει, όταν κάνει teleport και όταν εκτοξέυει projectile. Έπειτα πρόσθεσα ήχο στους εχθρούς μου και σε αυτον συγκεκριμένα, ακολουθώντας το tutorial, έκανα να ακούγεται η έντασή του ανάλογα την απόσταση που έχει ο χαρακτήρας μου με τον εχθρό.
+
 ![image](https://user-images.githubusercontent.com/115894686/208740531-afa5de1d-fd9b-4b8b-a177-d151c55044a2.png)
+
+Μετά συνέχισα δημιουργώντας ένα αρχικό μενού. Αυτό το έκανα ακολουθόντας κάποια βίντεο στο youtube, και περιλαμβάνει την επιλογή του παίκτη να πατήσει την πρώτη πίστα, (υπάρχει και δέυτερη όμως ο χρήστης μπρεί να την παίξει μόνο εάν περάσει την πρώτη), ένα guide με μικρά animation που εξηγεί στον παίκτη με ποιά πλήκτρα μπορεί να παίξει, καθώς και ένα κουμπί quit. Τέλος υπάρχει και μία μικρή περιγραφή που εξηγεί στον παίκτη την ιστορία και τον σκοπό του παιχνιδιού (που είναι να βρίσκει σε καθε πίστα το μαγικό βιβλίο).
+
+![image](https://user-images.githubusercontent.com/115894686/211594950-ce4775f2-68f8-4ad5-a6eb-9bed457e1375.png)
+
+![image](https://user-images.githubusercontent.com/115894686/211590987-628453e7-f85e-4fa0-9cda-08258be6c680.png)
+
+Στην συνέχεια σημιούργησα την δεύτερη πίστα και εισήγαγα παρόμοια στοιχεία με την πρώτη. Βέβαια απο άποψη αισθητικής είναι διαφορετική καθώς πλέον μοιάζει πιο παρατημένος και παλιός ο χώρος, αφού ο ήρωας μπαίνει πιο βαθιά στα ερείπια του αρχαίου πολιτισμού. Επίσης πλέον δεν είναι τελείως ελέυθερη η διαδρομή για τον χρήστη αφού υπάρχει ένα μονοπάτι απο το οποίο δεν μπορεί να παρεκλίνει και πολύ. Οι εχθροί είναι λίγο πιο δύσκολοι να νικηθούν λόγω του περιορισμένου χώρου σε κάποια σημεία και στο τέλος στο σημείο που βρίσκεται το βιβλίο που πρέπει να συλέξει ο χρήστης για να ολοκληρώσει το επίπεδο οι εχθροι ακολουθουν τον χαρακτήρα και έρχονται κατα πάνω του όταν βρίσκονται σε μία συγκεκριμένη απόσταση.
+
 ![image](https://user-images.githubusercontent.com/115894686/211589116-2fe9c514-2316-4e58-8e83-c6ce3b1fce90.png)
 ![image](https://user-images.githubusercontent.com/115894686/211589771-91734a01-ed0d-4eb6-a6ad-30da32812ce2.png)
-![image](https://user-images.githubusercontent.com/115894686/211589896-4fb6cee6-25e7-4d23-b8c4-c6947b5b9937.png)
+
 ![image](https://user-images.githubusercontent.com/115894686/211590176-c90aa6b5-cb93-4312-9ded-2668201f0e9c.png)
-![image](https://user-images.githubusercontent.com/115894686/211590707-763338c1-f414-4c81-a8f8-e8be48e39cb6.png)
-![image](https://user-images.githubusercontent.com/115894686/211590856-be9ee4be-4626-48d3-b355-0fc0c70ba275.png)
-![image](https://user-images.githubusercontent.com/115894686/211590987-628453e7-f85e-4fa0-9cda-08258be6c680.png)
-![image](https://user-images.githubusercontent.com/115894686/211591249-c2825a19-a474-4710-9541-5b645b5588cb.png)
+
+Τέλος έχω προσθέσει σε ίδια αισθητική με αυτή του μενού, ένα pause menu, μία οθόνη game over και μια game completed. Το pause menu έχει ένα κουμπί για να κάνει ο χρήστης resume, ένα slider που μπορεί να αυξομειώσει την ενταση του ήχου, ένα κουμπί για να επιστρέψει στο μενού και ένα για να κάνει quit. Στην οθόνη game over ο ήρωας εξαφανίζεται με το που παιθάνει και ο πάικτης έχει την επιλογή να κάνει restart ή quit. Η οθόνη game completed εμφανίζεται αφου ο παίκτης συλλέξει το μαγικό βιβλίο της δεύτερης πίστας.
+
 ![image](https://user-images.githubusercontent.com/115894686/211591670-23d5bb6d-c46a-4aae-8e55-86897f79d374.png)
+
 ![image](https://user-images.githubusercontent.com/115894686/211592155-bee6e131-3a46-4624-af06-1fb680737e74.png)
-![image](https://user-images.githubusercontent.com/115894686/211594950-ce4775f2-68f8-4ad5-a6eb-9bed457e1375.png)
+![image](https://user-images.githubusercontent.com/115894686/211591249-c2825a19-a474-4710-9541-5b645b5588cb.png)
+
 
 
 # Conclusions
+Συνολικά ήταν μια πολύ ενδιαφέρουσα εμπειρία. Πήρα βοήθεια αρκετές φορές απο το διαδίκτυο καθώς καποιες φορές το tutorial της ruby ήταν ελλειπές ή δεν περιείχε αυτά που ήθελα. Αν υπήρχε περισσότερος χρόνος θα ήθελα πολύ να σχεδιάσω όλα τα assets και tiles του παιχνιδιού, έτσι όπως σχεδίασα τον χαρακτήρα, τον NPC και το health bar του, και να το εξελίξω με περισσότερες πιστες, διαφορετικούς εχθρούς και στοιχεια για τον αρχαίο πολιτισμό που ερευνά ο Vady.
+
+![image](https://user-images.githubusercontent.com/115894686/211856149-850542b3-3c19-4722-a032-76f6e16aa8f1.png)
 
 
 # Sources
+
+https://www.pixilart.com/
+
 
 https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3
 
 
 https://www.youtube.com/watch?v=DTp5zi8_u1U
+
+
+https://www.youtube.com/watch?v=rhoQd6IAtDo
+
+
+https://www.youtube.com/watch?v=anHxFtiVuiE&t=12s
+
+
+https://www.youtube.com/watch?v=v1UGTTeQzbo
+
+
+https://www.youtube.com/watch?v=QbqnDbexrCw
+
+
+https://www.youtube.com/watch?v=JivuXdrIHK0
+
+
+https://www.youtube.com/watch?v=dO5BzWYqEdY
+
+
+https://www.youtube.com/watch?v=cOW_T3i4_kk
+
+https://www.youtube.com/watch?v=jvtFUfJ6CP8
+
+https://www.youtube.com/watch?v=pKFtyaAPzYo&t=403s
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY
